@@ -13,3 +13,4 @@
 Documents outside of this folder:
 
 - [FAQ on haveno.exchange](https://haveno.exchange/faq/) - Common questions and answers
+<!-- Auto-update: 2025-10-06T10:02:14.354463 -->
