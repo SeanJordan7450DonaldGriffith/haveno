@@ -42,3 +42,5 @@ in the file name is to ensure each generated file is uniquely named (you can ren
 
 Manually edit the json file, and pass the file's path to the createpaymentacct command:
 $ ./haveno-cli --password=xyz --port=9998 createpaymentacct --payment-account-form=zelle_1610818248040.json
+
+# Update: 2025-10-12
